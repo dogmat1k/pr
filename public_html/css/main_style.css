@@ -49,25 +49,25 @@ button {
   padding: 0;
 }
 
-.ytp-play-button {
+.pr-play-button {
   fill: #fff;
   opacity: 0.85;
   width: 46px;
 	height: 36px;
 }
 
-.ytp-play-button:hover {
+.pr-play-button:hover {
   cursor: pointer;
   opacity: 1;
 }
 
-.ytp-button {
+.pr-button {
   opacity: .9;
   width: 36px;
   background-color: transparent;
 }
 
-.ytp-fullscreen-button {
+.pr-fullscreen-button {
   fill: #fff;
 }
 
